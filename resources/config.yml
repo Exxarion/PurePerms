@@ -17,6 +17,7 @@ data-provider: yaml
 # Spanish message resource by @iksaku (<3) and @JoahDave (Github)
 # Czech message resource by @Michael2010117 (GitHub)
 # Slovak message resource by @Michael2010117 (GitHub)
+# German message resource by @Exxarion (GitHub)
 default-language: en
 
 # Setting this option will allow you to use per-world permissions
